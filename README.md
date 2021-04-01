@@ -5,6 +5,8 @@ Docker for [Testing](https://github.com/Ncode2014/nikabut) Userbot
 ```
 docker pull Satriouz/nekadok-aria:buster
 ```
+## Deploy to Heroku
+[![Deploy](https://heroku.com/deploy?template=https://github.com/Satriouz/nekadok-aria)
 
 ## Build Status
 <a href="https://github.com/Satriouz/nekadok-aria/actions?query=branch%3Amain"> <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/Ncode2014/nekadok/Docker%20Build/main?color=blue&label=Docker%20build&logo=github%20actions&logoColor=green&style=for-the-badge" /></a>
